@@ -1,0 +1,31 @@
+payload:
+  # IEEE
+  - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,ieeeexplore.ieee.org
+
+  # Springer
+  - DOMAIN-SUFFIX,springer.com
+  - DOMAIN-SUFFIX,link.springer.com
+
+  # Elsevier / ScienceDirect
+  - DOMAIN-SUFFIX,elsevier.com
+  - DOMAIN-SUFFIX,sciencedirect.com
+
+  # PubMed / NIH
+  - DOMAIN-SUFFIX,pubmed.ncbi.nlm.nih.gov
+  - DOMAIN-SUFFIX,nih.gov
+
+  # arXiv
+  - DOMAIN-SUFFIX,arxiv.org
+
+  # Wiley
+  - DOMAIN-SUFFIX,onlinelibrary.wiley.com
+
+  # Nature / Cell / Scientific American
+  - DOMAIN-SUFFIX,nature.com
+  - DOMAIN-SUFFIX,cell.com
+  - DOMAIN-SUFFIX,scientificamerican.com
+
+  # EMBS
+  - DOMAIN,www.embs.org
+  - DOMAIN-SUFFIX,embs.org
